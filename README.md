@@ -10,3 +10,9 @@ With the new firmware version V2.8E it is also possible to clone a disk without 
 The software runs completely on the DE10-Nano board and generates .dsk files for direct further                                                       
 use with SIMH.                                                                                                      
 
+                                                                                                                    
+                                                                                                                    
+
+For info: Another project, MFM disk emulator, also based on the DE10-Nano board is now also available:                   
+https://github.com/pdp11gy/SoC-HPS-based-MFM-disk-emulator  Furthermore, it is planned to bring both           
+interfaces together like in the overview.pdf dokument. Details will be published on my homepage, www.pdp11gy.com
