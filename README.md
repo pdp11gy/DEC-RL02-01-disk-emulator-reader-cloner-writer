@@ -16,4 +16,6 @@ use with SIMH. The most important is the verilog module read_one_track.v, which 
 For info: Another project, MFM disk emulator, also based on the DE10-Nano board is now also available:                   
 https://github.com/pdp11gy/SoC-HPS-based-MFM-disk-emulator  Furthermore, it is planned to bring both           
 interfaces together like in the overview.pdf dokument. This action has been suspended for the time being.                                
-More details will be published on my homepage, www.pdp11gy.com
+Maybe someone has the motivation and time to complete the project? A ready-made proposal with pictures can                                    
+be found in the file together.pdf. It's written in German, but with google translator it shouldn't be a problem. 
+More details are published on my homepage, www.pdp11gy.com
