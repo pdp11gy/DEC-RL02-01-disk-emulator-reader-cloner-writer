@@ -19,5 +19,5 @@ interfaces together like in the overview.pdf dokument. This action has been susp
 Maybe someone has the motivation and time to complete the project? A ready-made proposal with pictures can                                    
 be found in the file zusammen.pdf. It's written in German, but with google translator it shouldn't be a problem.                                                   
 A full, ready for use configured SD-card-image for the DE10-Nano Board is also available. Download the image and                                            
-copy it to the SD card with Win32DiskImager, for example. Login: root, PW: pdp11
+copy it to the SD card with Win32DiskImager, for example. Login: root, PW: pdp11                                                                              
 More details are published on my homepage, www.pdp11gy.com
