@@ -1,6 +1,6 @@
 # DEC-RL02-01-disk-emulator-reader-cloner-writer
 
-# Final Version V2.8E based on Quartus V16.1 
+# Final Version V2.8E based on Quartus V16.1 or higher
 
 **Note:** It also works with the current Quartus version V22.1
 
