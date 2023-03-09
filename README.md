@@ -1,6 +1,8 @@
 # DEC-RL02-01-disk-emulator-reader-cloner-writer
 
-# Final Version V2.8E based on Quartus V16.1                                                                                                                                                                                                                            
+# Final Version V2.8E based on Quartus V16.1 
+
+**Note:** It also works with the current quartus version V22.1                                                                        
 SoC/HPS based RL01/RL02 disk emulator/reader/cloner/(writer), Altera Cyclone V FPGA with ARM Cortex-A9 (DE10-Nano) 
 The operation of the RL02/RL01 emulator is best viewed with a VIDEO via YouTube, however in the first version from **2012**, based on the DE1-Board. https://www.youtube.com/watch?v=0i3ypBU39as
                                                                                                                                               
