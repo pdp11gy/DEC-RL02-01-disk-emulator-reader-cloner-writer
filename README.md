@@ -12,7 +12,7 @@ The operation of the RL02/RL01 emulator is best viewed with a VIDEO via YouTube,
 With the new firmware version V2.8E it is also possible to clone a disk without a PDP-11 system.                                                        
 The software runs completely on the DE10-Nano board and generates .dsk files for direct further                                                       
 use with SIMH. The most important is the verilog module read_one_track.v, which is uploaded again.                                                                                                                                                                                                                                         
-**Previous project developments are located here: **https://pdp11gy.com/rlstat1E.html                                                               
+**Previous project developments are located here:**  https://pdp11gy.com/rlstat1E.html                                                               
                                                                                                                     
                                                                                                                     
 
