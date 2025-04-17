@@ -1,6 +1,6 @@
 # DEC-RL02-01-disk-emulator-reader-cloner-writer
 
-# Final Version V2.8E originally based on Quartus V16.1
+# Final Version V2.8E originally based on Quartus V16.1                                        
 
 **Previous versions based on DE0-Nano, DE10-Lite, BeMicro-CV or DE0-Nano board are available on my 
 homepage: https://pdp11gy.com/rlstat1E.html **
