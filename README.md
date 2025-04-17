@@ -2,9 +2,8 @@
 
 # Final Version V2.8E originally based on Quartus V16.1                                        
 
-Previous versions based on DE0-Nano, DE10-Lite, BeMicro-CV or DE0-Nano board are available on my 
-homepage: https://pdp11gy.com/rlstat1E.html
-                                                                                                                                              
+**Previous project developments based on DE0_Nano, DE10_Lite, BeMicro_CV or DE0_Nano are available on
+my homepage:**  https://pdp11gy.com/rlstat1E.html                                                                                   
 **Note:** It also works with the current Quartus version V23.1
 
 SoC/HPS based RL01/RL02 disk emulator/reader/cloner/(writer), Altera Cyclone V FPGA with ARM Cortex-A9 (DE10-Nano) 
